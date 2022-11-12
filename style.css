@@ -1,0 +1,19 @@
+h2{
+    color: #565656;
+}
+.main-menu > li{
+    line-height: 1.5;
+    font-size: 16pt;
+    color: #0404ba;
+}
+.category-menu > li {
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 16pt;
+    color: #0404ba;
+}
+.menu > li.active{
+    font-size: 17pt;
+    color: black;
+    font-weight: bold;
+}
